@@ -111,7 +111,7 @@ return {
 						name = "innen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
-					--- Stromabnehmer ---	
+					--- Stromabnehmer ---
 					{
 						_meshId = 21,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -125,7 +125,7 @@ return {
 						mesh = "vehicle/train/br111/panto_schere_down_lod0.msh",
 						name = "schere",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},	
+					},
 					--- Zza ---
 					{
 						_meshId = 31,
@@ -248,7 +248,7 @@ return {
 						name = "innen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
-					--- Stromabnehmer ---	
+					--- Stromabnehmer ---
 					{
 						_meshId = 20,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -262,7 +262,7 @@ return {
 						mesh = "vehicle/train/br111/panto_schere_down_lod1.msh",
 						name = "schere",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},	
+					},
 					--- Zza ---
                     {
 						_meshId = 30,
@@ -278,7 +278,7 @@ return {
 			static = false,
 			visibleFrom = 100,
 			visibleTo = 350,
-		},        
+		},
 		{
 			node = {
 				children = {
@@ -404,41 +404,13 @@ return {
 			runningCostScale = 1,
 			runningCosts = -1,
 		},
-		labelList = {
-			labels = {
-				{
-					alignment = "CENTER",
-					childId = "RootNode",
-					color = { 0, 0, 0, },
-					filter = "NONE",
-					fitting = "SCALE",
-					renderMode = "STD",
-					size = { 0.77, 0.09, },
-                    transf = { -0.139, 0.990, 0, 0, 0, 0, 1, 0, 0.990, 0.139, 0, 0, 7.42, 0.17, 2.8, 1, },
-					type = "NEXT_STOP",
-					verticalAlignment = "CENTER",
-				},
-				{
-					alignment = "CENTER",
-					childId = "RootNode",
-					color = { 0, 0, 0, },
-					filter = "NONE",
-					fitting = "SCALE",
-					renderMode = "STD",
-					size = { 0.77, 0.09, },
-                    transf = { 0.139, -0.990, 0, 0, 0, 0, 1, 0, -0.990, -0.139, 0, 0, -7.42, -0.17, 2.8, 1, },
-					type = "NEXT_STOP",
-					verticalAlignment = "CENTER",
-				},
-			},
-		},
 		railVehicle = {
 			configs = {
 				{
-					axles = { "vehicle/train/br111/rad_lod0.msh", },    
+					axles = { "vehicle/train/br111/rad_lod0.msh", },
 				},
 				{
-					axles = { "vehicle/train/br111/rad_lod1.msh", },   
+					axles = { "vehicle/train/br111/rad_lod1.msh", },
 				},
 				{
 					axles = { "vehicle/train/br111/rad_lod2.msh", },
