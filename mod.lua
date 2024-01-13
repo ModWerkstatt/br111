@@ -64,8 +64,11 @@ return {
 			["vorspann_vs1.mdl"] = true,
 			["vorspann_vs2.mdl"] = true,
             ["vorspann_muc2018.mdl"] = true,
+			["vorspann_tri.mdl"] = true,
+			["vorspann_helrom.mdl"] = true,
+            ["vorspann_gebraucht5.mdl"] = true,
         }
-    
+
         local fake_br111 = {
 			["fake_gebraucht1.mdl"] = true,
 			["fake_gebraucht2.mdl"] = true,
@@ -92,13 +95,16 @@ return {
 			["fake_vs1.mdl"] = true,
 			["fake_vs2.mdl"] = true,
             ["fake_muc2018.mdl"] = true,
+			["fake_tri.mdl"] = true,
+			["fake_helrom.mdl"] = true,
+            ["fake_gebraucht5.mdl"] = true,
         }
-        
+
         local modelFilterVorspann = function(fileName, data)
 			local modelName = fileName:match('/br111_([^/]*.mdl)')
 			return (modelName==nil or vorspann_br111[modelName]~=true)
 		end
-        
+
         local modelFilterFake = function(fileName, data)
 			local modelName = fileName:match('/br111_([^/]*.mdl)')
 			return (modelName==nil or fake_br111[modelName]~=true)

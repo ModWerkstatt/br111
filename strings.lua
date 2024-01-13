@@ -55,6 +55,12 @@ return {
         ["br111_sm_desc"] = "Paint scheme: traffic red without DB AG stripes/logo owned by SmartRail GmbH Munich. These locomotives are used in freight traffic, a field of application in which the Class 111 has not been seen so far.",
         ["br111_muc2018_name"] = "Class 111 Olympia application Munich (2011)",
         ["br111_muc2018"] = "Paint scheme: Full body ad Olympia application Munich",
+        ["br111_tri_name"] = "Class 111 TRI Train Rental (2023)",
+        ["br111_tri"] = "Paint scheme: sapphire blue, as the class 111 might have looked at the end of the 1960s. However, different shade of blue and red DB logo.",
+        ["br111_helrom_name"] = "Class 111 Helrom (2023)",
+        ["br111_helrom"] = "Paintwork: Locomotive in the design of Helrom Trailer Rail. Helrom purchased five class 111 locomotives in 2023, one of them as a spare parts donor.",
+        ["br111_gebraucht5_name"] = "Class 111 DB Second-hand train yellow Express (2023)",
+        ["br111_gebraucht5"] = "Paint scheme: based on the former Lufthansa Airport Express in yellow with DB Second-hand train advertising.",
 
         -- Vorspann
         ["Vorspann_br111"] = "Active lead engines?",
@@ -84,6 +90,12 @@ return {
         ["br111_vorspann_gebraucht4_name"] = "Lead - Class 111 DB Second-hand train traffic red (2020)",
         ["br111_vorspann_sm_name"] = "Lead - Class 111 SmartRail traffic red (2021)",
         ["br111_vorspann_muc2018_name"] = "Lead - Class 111 Olympia application Munich (2011)",
+        ["br111_vorspann_tri_name"] = "Class 111 TRI Train Rental (2023)",
+        ["br111_vorspann_tri"] = "Paint scheme: sapphire blue, as the class 111 might have looked at the end of the 1960s. However, different shade of blue and red DB logo.",
+        ["br111_vorspann_helrom_name"] = "Class 111 Helrom (2023)",
+        ["br111_vorspann_helrom"] = "Paintwork: Locomotive in the design of Helrom Trailer Rail. Helrom purchased five class 111 locomotives in 2023, one of them as a spare parts donor.",
+        ["br111_vorspann_gebraucht5_name"] = "Class 111 DB Second-hand train yellow Express (2023)",
+        ["br111_vorspann_gebraucht5"] = "Paint scheme: based on the former Lufthansa Airport Express in yellow with DB Second-hand train advertising.",
 
         -- Fake
         ["Fake_br111"] = "Active fake engines?",
@@ -113,6 +125,12 @@ return {
         ["br111_fake_gebraucht4_name"] = "Fake - Class 111 DB Second-hand train traffic red (2021)",
         ["br111_fake_sm_name"] = "Fake - Class 111 SmartRail traffic red (2021)",
         ["br111_fake_muc2018_name"] = "Fake - Class 111 Olympia application Munich (2011)",
+        ["br111_fake_tri_name"] = "Class 111 TRI Train Rental (2023)",
+        ["br111_fake_tri"] = "Paint scheme: sapphire blue, as the class 111 might have looked at the end of the 1960s. However, different shade of blue and red DB logo.",
+        ["br111_fake_helrom_name"] = "Class 111 Helrom (2023)",
+        ["br111_fake_helrom"] = "Paintwork: Locomotive in the design of Helrom Trailer Rail. Helrom purchased five class 111 locomotives in 2023, one of them as a spare parts donor.",
+        ["br111_fake_gebraucht5_name"] = "Class 111 DB Second-hand train yellow Express (2023)",
+        ["br111_fake_gebraucht5"] = "Paint scheme: based on the former Lufthansa Airport Express in yellow with DB Second-hand train advertising.",
 
 	},
 	de = {
@@ -169,6 +187,12 @@ return {
         ["br111_sm_desc"] = "Lackierung: verkehrsrot ohne DB AG Streifen/Logo in Besitz der SmartRail GmbH München. Diese Loks werden im Güterverkehr eingesetzt, ein Einsatzgebiet im dem die BR 111 bisher nicht zu sehen war.",
         ["br111_muc2018_name"] = "BR 111 Olympiabewerbung München (2011)",
         ["br111_muc2018"] = "Lackierung: Ganzwerbung Olympiabewerbung München",
+        ["br111_tri_name"] = "BR 111 TRI Train Rental (2023)",
+        ["br111_tri"] = "Lackierung: saphirblau, wie die BR 111 hätte aussehen können Ende der 1960er Jahre. Allerdings abweichender Blauton und roter DB Keks.",
+        ["br111_helrom_name"] = "BR 111 Helrom (2023)",
+        ["br111_helrom"] = "Lackierung: Lok im Design von Helrom Trailer Rail. Helrom hat im Jahr 2023 fünf Lokomotiven der BR 111 gekauft, eine davon als Ersatzteilspender.",
+        ["br111_gebraucht5_name"] = "BR 111 DB Gebrauchtzug gelb Express (2023)",
+        ["br111_gebraucht5"] = "Lackierung: angelehnt an den ehemaligen Lufthansa Airport Express in gelb mit Werbung von DB Gebrauchtzug.",
 
         -- Vorspann
         ["Vorspann_br111"] = "Vorspann-Loks aktivieren?",
@@ -198,6 +222,12 @@ return {
         ["br111_fake_gebraucht4_name"] = "Vorspann - BR 111 DB Gebrauchtzug verkehrsrot (2021)",
         ["br111_vorspann_sm_name"] = "Vorspann - BR 111 SmartRail verkehrsrot (2021)",
         ["br111_vorspann_muc2018_name"] = "Vorspann - BR 111 Olympiabewerbung München (2011)",
+        ["br111_vorspann_tri_name"] = "BR 111 TRI Train Rental (2023)",
+        ["br111_vorspann_tri"] = "Lackierung: saphirblau, wie die BR 111 hätte aussehen können Ende der 1960er Jahre. Allerdings abweichender Blauton und roter DB Keks.",
+        ["br111_vorspann_helrom_name"] = "BR 111 Helrom (2023)",
+        ["br111_vorspann_helrom"] = "Lackierung: Lok im Design von Helrom Trailer Rail. Helrom hat im Jahr 2023 fünf Lokomotiven der BR 111 gekauft, eine davon als Ersatzteilspender.",
+        ["br111_vorspann_gebraucht5_name"] = "BR 111 DB Gebrauchtzug gelb Express (2023)",
+        ["br111_vorspann_gebraucht5"] = "Lackierung: angelehnt an den ehemaligen Lufthansa Airport Express in gelb mit Werbung von DB Gebrauchtzug.",
 
         -- Fake
         ["Fake_br111"] = "Fake-Loks aktivieren?",
@@ -227,6 +257,12 @@ return {
         ["br111_fake_gebraucht4_name"] = "Fake - BR 111 DB Gebrauchtzug verkehrsrot (2021)",
         ["br111_fake_sm_name"] = "Fake - BR 111 SmartRail verkehrsrot (2021)",
         ["br111_fake_muc2018_name"] = "Fake - BR 111 Olympiabewerbung München (2011)",
+        ["br111_fake_tri_name"] = "BR 111 TRI Train Rental (2023)",
+        ["br111_fake_tri"] = "Lackierung: saphirblau, wie die BR 111 hätte aussehen können Ende der 1960er Jahre. Allerdings abweichender Blauton und roter DB Keks.",
+        ["br111_fake_helrom_name"] = "BR 111 Helrom (2023)",
+        ["br111_fake_helrom"] = "Lackierung: Lok im Design von Helrom Trailer Rail. Helrom hat im Jahr 2023 fünf Lokomotiven der BR 111 gekauft, eine davon als Ersatzteilspender.",
+        ["br111_fake_gebraucht5_name"] = "BR 111 DB Gebrauchtzug gelb Express (2023)",
+        ["br111_fake_gebraucht5"] = "Lackierung: angelehnt an den ehemaligen Lufthansa Airport Express in gelb mit Werbung von DB Gebrauchtzug.",
 
 	},
 }
