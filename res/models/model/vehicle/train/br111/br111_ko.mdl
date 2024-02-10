@@ -139,8 +139,8 @@ return {
 						mesh = "vehicle/train/br111/licht_rot_lod0.msh",
 						name = "licht_rot",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},			
-					--- Stromabnehmer ---	
+					},
+					--- Stromabnehmer ---
 					{
 						_meshId = 19,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -154,7 +154,7 @@ return {
 						mesh = "vehicle/train/br111/panto_schere_down_lod0.msh",
 						name = "schere",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},  
+					},
 					{
 						_meshId = 21,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -168,7 +168,7 @@ return {
 						mesh = "vehicle/train/br111/panto_schere_down_lod0.msh",
 						name = "schere",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},	
+					},
 					{
 						_meshId = 23,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -375,8 +375,8 @@ return {
 						mesh = "vehicle/train/br111/licht_rot_lod0.msh",
 						name = "licht_rot",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},			
-					--- Stromabnehmer ---	
+					},
+					--- Stromabnehmer ---
 					{
 						_meshId = 18,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -390,7 +390,7 @@ return {
 						mesh = "vehicle/train/br111/panto_schere_down_lod1.msh",
 						name = "schere",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},  
+					},
 					{
 						_meshId = 20,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -404,7 +404,7 @@ return {
 						mesh = "vehicle/train/br111/panto_schere_down_lod1.msh",
 						name = "schere",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},	
+					},
 					{
 						_meshId = 22,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -476,7 +476,7 @@ return {
 			static = false,
 			visibleFrom = 100,
 			visibleTo = 350,
-		},        
+		},
 		{
 			node = {
 				children = {
@@ -555,7 +555,7 @@ return {
 						name = "innen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
-					--- Stromabnehmer ---	
+					--- Stromabnehmer ---
 					{
 						_meshId = 17,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -569,7 +569,7 @@ return {
 						mesh = "vehicle/train/br111/panto_schere_down_lod2.msh",
 						name = "schere",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},  
+					},
 					{
 						_meshId = 19,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
@@ -583,7 +583,7 @@ return {
 						mesh = "vehicle/train/br111/panto_schere_down_lod2.msh",
 						name = "schere",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},	
+					},
 					{
 						_meshId = 21,
 						materials = { "vehicle/train/br111/bogie_ob.mtl", },
